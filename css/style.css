@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    position: center;
+    font-size: 70px !important;
+    color: #1b1b1e !important;
+    -moz-text-decoration-line: overline !important;
+    font-variant: ;
+}
+.board {
+    position: center;
+
+}
+.form-control{
+    position: center !important;
+    size: 15px;
+    font-size: 50px !important;
+    text-align: center;
+    background-color: rgb(255, 249, 243);
+    width: 150px !important;;
+    height: 150px !important;;
+    border: 2px solid #1b1b1e !important;
+    margin: auto;
+
+
+}
+
+.winner {
+    background-color: #23ee73 !important;
+}
+ .r1{
+     border-bottom: 2px solid #1b1b1e;
+ }
+.r2{
+    border-bottom: 2px solid #1b1b1e;
+}
+.col1{
+    border-right: 2px solid #1b1b1e;
+}
+.col2{
+    border-right: 2px solid #1b1b1e;
+}
+#curent-player-ui {
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+    color: #b23131;
+}
